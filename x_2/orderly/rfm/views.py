@@ -6,7 +6,6 @@ import pandas as pd
 
 
 def rfm_sort(request):
-
     sort_by = request.GET.get('sort_by', "recency")
 
     module_dir = os.path.dirname(__file__)
