@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba3ff723-f7b9-4a56-8be5-cac0419a1af9" name="Default Changelist" comment="" />
+    <list default="true" id="ba3ff723-f7b9-4a56-8be5-cac0419a1af9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/rfm/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/rfm/views.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,11 +24,27 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/manage.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
               <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/orderly/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1755" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rfm/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -36,9 +54,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-12" />
-    <option name="y" value="-12" />
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/rfm/views.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="61" />
+    <option name="y" value="817" />
     <option name="width" value="1944" />
     <option name="height" value="1044" />
   </component>
@@ -60,6 +85,11 @@
               <item name="orderly" type="b2602c69:ProjectViewProjectNode" />
               <item name="orderly" type="462c0819:PsiDirectoryNode" />
               <item name="orderly" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="orderly" type="b2602c69:ProjectViewProjectNode" />
+              <item name="orderly" type="462c0819:PsiDirectoryNode" />
+              <item name="rfm" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -121,15 +151,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584005924561</updated>
-      <workItem from="1584005925955" duration="603000" />
+      <workItem from="1584005925955" duration="1450000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="603000" />
+    <option name="totallyTimeSpent" value="1450000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2497979" />
@@ -168,11 +199,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/rfm/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/manage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/orderly/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1755" />
       </provider>
     </entry>
   </component>
